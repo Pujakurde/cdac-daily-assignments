@@ -1,4 +1,8 @@
-bin/ 
-.settings/ 
-*.class 
-.classpa*h 
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Java
+bin/
+*.class
