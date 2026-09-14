@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 *.class 
 *.zip 
+=======
+.project
+.classpath
+.settings/
+bin/
+*.class
+>>>>>>> 509526d0b85d52f3a82834e5a2990534a6afd2ab
