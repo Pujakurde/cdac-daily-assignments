@@ -1,10 +1,14 @@
-<<<<<<< HEAD
-*.class 
-*.zip 
-=======
+# Eclipse
 .project
 .classpath
 .settings/
+
+# Build output
 bin/
 *.class
->>>>>>> 509526d0b85d52f3a82834e5a2990534a6afd2ab
+
+# Archives
+*.zip
+
+# Logs
+*.log
